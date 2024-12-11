@@ -1,13 +1,13 @@
-# Explore Signatures And Logs With Suricata
-The purpose of this project is to demonstrate knowledge of the components of a rule using Suricata. I also trigger a rule and examine the output in Suricata by using Bash shell to complete these steps. <br />
+# Signatures And Log Analysis With Suricata
+The purpose of this project is to demonstrate knowledge of the components of rules within Suricata. We also demonstrate triggering a new rule and examining the output in Suricata by using a Bash shell. <br />
 
-The tasks in this project are:
+Objectives:
   - Examine a rule in Suricata.
   - Trigger a rule and review the alert logs.
-  - Examine eve.json outputs.
+  - Examine 'eve.json' outputs.
 
 <h2>Examining a Custom Rule in Suricata</h2>
-In this task, we explore the composition of the Suricata rule defined in the custom.rules file.
+In this step, we explore the current composition of the Suricata rule defined in the "custom.rules" file.
 
 <img src="https://i.imgur.com/YObXJ9Y.png" height="80%" alt="Examining a custom rule1"/> <br />
 
@@ -19,7 +19,7 @@ In this task, we explore the composition of the Suricata rule defined in the cus
 <br />
 
 <h2>Triggering a Custom Rule in Suricata</h2>
-In this section, we trigger a custom Suricata rule and examine the alert logs that Suricata generates. <br />
+In this section, we'll trigger a custom Suricata rule and examine the alert logs that Suricata generates. <br />
 
   - Run Suricata and list files in /var/log/suricata folder:
 <img src="https://i.imgur.com/m18J9nK.png" height="80%" alt="List Files1"/> <br />
