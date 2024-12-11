@@ -1,7 +1,7 @@
 # Signature And Log Analysis With Suricata
 The purpose of this project is to demonstrate knowledge of the components of rules within Suricata. We also demonstrate triggering a new rule and examining the output in Suricata by using a Bash shell. <br />
 
-Objectives:
+Tasks:
   - Examine a rule in Suricata.
   - Trigger a rule and review the alert logs.
   - Examine 'eve.json' outputs.
